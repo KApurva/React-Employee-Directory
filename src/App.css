@@ -1,3 +1,11 @@
+.cursor{
+  cursor: pointer;
+}
+
+.cursor:hover {
+  color:blue
+}
+
 .App {
   text-align: center;
 }
